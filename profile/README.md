@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Here you can find a _heap_ of libraries, packages and templates.  
+Most of the _code_ is free and open source.
+
+All contributions are welcome.
+
 <!--
 
 **Here are some ideas to get you started:**
